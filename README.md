@@ -1,8 +1,10 @@
-# 我的GTO · My GTO
+# EVolve
+
+*EV + evolve: improve your poker by judging every decision on its expected value.*
 
 A bilingual (Chinese/English) Texas hold'em trainer I built to practise GTO-based decision-making, from preflop through to the river. It runs entirely in the browser.
 
-**Live site:** https://bx-zhou315.github.io/my-gto/ (English: [en.html](https://bx-zhou315.github.io/my-gto/en.html))
+**Live site:** https://bx-zhou315.github.io/evolve/ (English: [en.html](https://bx-zhou315.github.io/evolve/en.html))
 
 ## Features
 
